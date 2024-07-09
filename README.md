@@ -13,3 +13,4 @@ Install it via:
   </li>
 </ol>
 Full list of scraped items: <code>recipes.json</code>
+<br/> Recipes courtesy of allrecipes.com/
