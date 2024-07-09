@@ -9,7 +9,7 @@ Install it via:
   </li>
   <li>
     Execute code based on scraper: logger/finder
-    <code>scrapy crawl <scraper> -O <output-file> </code>
+    <code>scrapy crawl finder -O output.json</code>
   </li>
 </ol>
 Full list of scraped items: <code>recipes.json</code>
